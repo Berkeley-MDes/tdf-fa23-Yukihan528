@@ -1,13 +1,11 @@
 # Hi! This is Yuki.
 Welcome to my weekly report. 
 
-
+I had a **fantastic** first week at MDes and TDF! I spent some time [exploring Rhino, Grasshopper, and GitHub](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#explore-the-design-tools), which are all new to me. Also, I [laser cut](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#laser-cutting) the cell phone holder, I would say it was a fun and frustrating process, which inspired me a lot. [Outside of work](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#outside-of-tdf-what-i-did-this-week), I decorated my bedroom and had some interesting [reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#reflections). Please read on!
 
 --- 
 ## Quick Links, compiled here for your convenience: ##
 
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
-
+- [Images and videos](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe)
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md) 
 
