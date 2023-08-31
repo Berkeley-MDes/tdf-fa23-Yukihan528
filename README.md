@@ -1,4 +1,4 @@
-# Hi! This is XUE HAN /Yuki.😄❄️
+# Hi! This is XUE HAN (Yuki).😄❄️
 Welcome to my weekly reports! 
 
 # Report 1 - Week of 08/24 - 08/31
