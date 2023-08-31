@@ -1,5 +1,5 @@
-# Hi! This is Yuki.
-Welcome to my weekly reports. 
+# Hi! This is Yuki.😄❄️
+Welcome to my weekly reports! 
 
 # Report 1 - Week of 08/24 - 08/31
 
