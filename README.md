@@ -8,6 +8,6 @@ I had a **fantastic** first week at MDes and TDF! I spent some time [exploring R
 --- 
 ## Quick Links, compiled here for your convenience: ##
 
-- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md) -Where you can find my detailed report for week 1
-- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#reflections) -What I learned this week
-- [Images and videos](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe) -Images and videos appear in the report
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md) - Where you can find my detailed report for week 1
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#reflections) - What I learned this week
+- [Images and videos](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe) - Images and videos appear in the report
