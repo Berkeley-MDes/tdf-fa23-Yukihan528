@@ -10,4 +10,4 @@ I had a **fantastic** first week at MDes and TDF! I spent some time [exploring R
 
 - [Images and videos](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe)
 - [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md) 
-
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#reflections)
