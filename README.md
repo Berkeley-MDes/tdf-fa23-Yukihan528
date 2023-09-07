@@ -15,6 +15,8 @@ Please find my [report for week 2](https://github.com/Berkeley-MDes/tdf-fa23-Yuk
 - [Images and videos](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007) - Images and video appear in the report for week 2
   
 
+
+
 # Report 1 - Week of 08/24 - 08/31
 
 I had a **fantastic** first week at MDes and TDF! I spent some time [exploring Rhino, Grasshopper, and GitHub](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#explore-the-design-tools), which are all new to me. Also, I [laser cut](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#laser-cutting) the cell phone holder, I would say it was a fun and frustrating process, which inspired me a lot. [Outside of work](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#outside-of-tdf-what-i-did-this-week), I decorated my bedroom and had some interesting [reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md#reflections). Please find my [report for week 1](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe.md) here!
