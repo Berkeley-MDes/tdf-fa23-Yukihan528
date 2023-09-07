@@ -2,7 +2,7 @@
 
 # Hello! ☀️Welcome to my weekly report!
 
-This week has been a work-life balanced week. I mainly further [baked and redefined the grasshopper model](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007.md#bake-and-redefine-the-model-for-3d-printing) based on my personal preferences, modified the 3D printed model and prepared it for printing. Based on those, I also did my personal [reflection](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007%20.md#reflections).
+This week has been a work-life balanced week. I mainly further [baked and redefined the grasshopper model](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007.md#bake-and-redefine-the-model-for-3d-printing) based on my personal preferences, modified the 3D printed model and prepared it for printing. Based on those, I also did my personal [reflection](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007.md#reflections).
 
 ## *Bake and redefine the model for 3D printing*
 
