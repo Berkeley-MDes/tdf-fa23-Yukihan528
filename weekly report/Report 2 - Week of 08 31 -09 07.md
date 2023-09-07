@@ -1,0 +1,119 @@
+# Report 2 - Week of 08/31 - 09/07
+
+# Hello! ☀️Welcome to my weekly report!
+
+This week has been a work-life balanced week. I mainly further baked and redefined the grasshopper model based on my personal preferences, modified the 3D printed model, and prepared it for printing. Based on those, I also did my personal reflection.
+
+## *Bake and redefine the model for 3D printing*
+
+To start with, I followed the instructions to download the required plugin on food4Rhino.
+
+![laser cut final product]()
+_download PUFFERFISH plugin_
+
+After some exploration, I learned to adjust the parameters in gh to modify the design.
+
+![work with gh](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/work_with_gh.jpeg)
+_work with gh_
+
+However, because of my unfamiliarity with the interface, I still can't quickly locate the parameter I want to adjust and manipulate it, and I'm looking for a more concise approach.
+
+In addition, I also worked with the stand for 3d printing. I ended up choosing laser cutting because I had more previous experience with 3d printing but never with laser cutting. I will be operating and consolidating 3d printing sometime next week, including understanding the advantages of each of the different machines.
+
+![work with stand for 3d printing](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/work_with_stand_for_3d_printing.jpeg)
+_work with stand for 3d printing_
+
+## *Laser cutting!*
+
+Before hands-on practice, I completed the online training to gain the Maker Pass. Below is an excerpt from my learning record.
+
+![study notes](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/study_notes.jpg)
+_study notes_
+
+I modified the cutting file to try different cutting types, including cutting through and engraving. 
+
+![customized doc](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/customized_doc.jpg)
+_customized doc_
+
+The first object I made was cute! It's made from Acrylic and I engraved my name on it.
+
+![first try](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/first_try.jpg)
+_first try_
+
+However, there was a terrible issue with the dimension. The stand seems to cater exclusively to mini-world phones. lol.
+
+![stand with wrong size](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/stand_with_wrong_size.jpg)
+_stand with the wrong size_
+
+The problem aligns with the AI Export Options in Rhino, the scale was not set correctly.
+
+![dimension error](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/dimension_error.jpeg)
+_dimension error_
+
+To avoid related problems, several points should be considered.
+
+1. **Use the Correct Units:**
+Set design software to the correct unit of measurement (inches or millimeters) to prevent confusion when sharing files.
+2. **Double-Check Dimensions:**
+Before transferring design files, double-check all dimensions, measurements, and proportions. Verify that every element is sized correctly according to the requirements.
+3. **Check Scaling Options:**
+    
+    Some design software might have scaling options during export. Ensure that these options are set to 100% or no scaling to prevent any unintended resizing during the transfer.
+    
+4. **Provide a Test File:**
+Provide a small-scale test file to the laser cutting service before proceeding with the full job. This allows me to confirm that the dimensions are accurate and that the laser cutting machine interprets the design correctly.
+
+After correcting the dimension set-up, we went into the cutting stage. To save materials, we reformatted the document to maximize the use of space and laser cut at one time.
+
+![modify cutting doc](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/modify_cutting_doc.jpg)
+_modify cutting doc_
+
+Here is a video of the laser cutting process 
+[https://vimeo.com/859834987?share=copy](https://vimeo.com/859834987?share=copy)
+
+![laser cutting finished](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/laser_cutting_finished.jpg)
+_laser cutting finished_
+
+However, we forgot to estimate the cutting time through the software, which caused us to be late for class. Please forgive me, I will avoid this situation in the future.🧎
+
+This is the final product I made and it's awesome!
+
+![final product](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/final_product.jpg)
+_final product_
+
+## *Outside of TDF (What I did this week)*
+
+### **Furnish and set up my apartment/studio**
+
+Since I arrived here last week, I've been primarily focused on getting my new apartment in order. I purchased furniture from Ikea and Amazon and subsequently assembled each piece. After all the effort, here's the final image of my furnished home✨. I shared it on my social media, and I was thrilled to receive over 500 likes and favorites. It gave me a great sense of accomplishment.
+
+![My studio](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/my_studio.jpg)
+_My studio_
+
+The process of assembly was interesting and hard. During this process, I also reflected on  the furniture assembly guide and found some problems
+
+![assembly process](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/assembly_process.jpg)
+_assembly process_
+
+![assembly manuals](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/assembly_manuals.jpg)
+_assembly manuals_
+
+For instance, components are hard to distinguish from one another.
+![confusing standard components](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/confusing_standard_components.jpg)
+_confusing standard components_
+
+Also, the text font is too small to read.
+![confusing instrcution](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/confusing_instruction.jpg)
+_confusing instruction_
+
+
+![Exercise in Equitable design class](Report%201%20-%20Week%20of%2008%2024%20-%2008%2031%20d43654518cc241ea938e8c26bf6f73fe/Exercise_in_Equitable_design_class.png)
+_Exercise in Equitable Design class_
+
+Serendipitously, the topic aligns perfectly with a class exercise in my elective course, Equitable Design. During this session, we delved into the subject matter and dissected various challenges. Collectively, we brainstormed and formulated intriguing solutions aimed at enhancing the inclusivity of these instructions for a wide range of individuals. The experience was undeniably inspiring.
+
+## *Reflections*
+
+- As a beginner, the introduction to Grasshopper was both **intriguing and slightly overwhelming**. Its visual scripting environment opened up new horizons, allowing me to create intricate designs by interconnecting various components. The concept of parametric design, where changes in one parameter ripple across the entire model, was both fascinating and challenging. Reflecting on my journey, I'm struck by how Rhino and Grasshopper transform my approach to design. The ability to create dynamic and adaptable models may not only enhance the quality of my work but also expand my creative thinking. The iterative nature of parametric design taught me to embrace change and see design as an evolving process rather than a static outcome.
+- For laser cutting, **dimensions and scales** should be considered carefully. Incorrect dimensions can lead to errors during the laser cutting process, resulting in wasted time, material, and resources. Accurate dimensions help optimize material usage, minimizing waste and reducing production costs. In addition, when dimensions are accurate, there's less need for manual adjustments, rework, or corrections, which saves time in the production process.
+- For **assembly processes**, I would say that the approach to assembly manuals can vary among furniture manufacturers. The effectiveness of any manual hinges on its clarity, comprehensibility, and alignment with user preferences. As designers, **understanding our target users' preferences** is pivotal in enhancing their experience. Incorporating AI tools to create clearer assembly and disassembly instructions could potentially streamline productivity and user satisfaction.
