@@ -9,7 +9,7 @@ This week, I mainly focused on Project 1: Computational Design. I [redesigned th
 
 At the beginning of the week, I decided to redesign the model instead of continuing to work on last week's model, as I redefined my challenges and design goals, while the original model was too limiting to work on.
 
-As I reflected on my daily life, I noticed two common scenarios where I use a cell phone stand: FaceTiming with my family and friends and watching videos while eating. 
+Reflecting on my daily life, I noticed two common scenarios where I use a cell phone stand: FaceTiming with my family and friends and watching videos while eating. 
 ![scenario 1](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/assets/143134371/34252547-2b5c-432b-9aeb-d8938f6278ae)
 _FaceTime with my family and friends_
 ![scenario 2](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/assets/143134371/99d11d6b-893f-46fb-bdcf-329839746238)
