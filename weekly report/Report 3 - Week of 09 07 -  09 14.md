@@ -2,18 +2,17 @@
 
 # Hello! 🌟 Welcome to my weekly report!
 
-This week I focused on Project 1: Computational Design, I redesigned the cell phone stand based on my preferences. And I created a [progress video](https://youtu.be/6hY8ILsYISs) to record what I did and learned. The personal reflection and speculations can be found here.
+This week, I mainly focused on Project 1: Computational Design. I redesigned the cell phone stand based on my preferences. And I created a [progress video](https://youtu.be/6hY8ILsYISs) to record what I did and learned. The personal reflection and speculations can be found here.
 
 
 ## *Redesign the cell phone stand*
 
+At the beginning of the week, I decided to redesign the model instead of continuing to work on last week's model, as I redefined my challenges and design goals, while the original model was too limiting to work on.
 
-Finally, I exported the model to an STL file for 3D printing.
+As I reflected on my daily life, I noticed two common scenarios where I use a cell phone stand: FaceTiming with my family and friends and watching videos while eating. 
+![Scenario 1]()
 
-![export to stl file for 3d printing](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%202%20-%20Week%20of%2008%2031%20-%2009%2007/export%20to%20stl%20file%20for%203d%20printing.png)
-_export to stl file for 3D printing_
-
-For next week, I will print it out with Makerbot 3 or other printers at Jacobs Hall.
+## *Product features*
 
 ## *Progress video*
 Please find my progress video via this link. https://youtu.be/6hY8ILsYISs
