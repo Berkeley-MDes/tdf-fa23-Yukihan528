@@ -2,7 +2,7 @@
 
 # Hello! 🌟 Welcome to my weekly report!
 
-This week, I mainly focused on Project 1: Computational Design. I redesigned the cell phone stand based on my preferences. And I created a [progress video](https://youtu.be/6hY8ILsYISs) to record what I did and learned. The personal reflection and speculations can be found here.
+This week, I mainly focused on Project 1: Computational Design. I redesigned the cell phone stand based on my preferences; [product features](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%203%20-%20Week%20of%2009%2007%20-%20%2009%2014.md#product-features) are listed here. And I created a [progress video](https://youtu.be/6hY8ILsYISs) to record what I did and learned. The personal [reflection and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%203%20-%20Week%20of%2009%2007%20-%20%2009%2014.md#reflections) can be found here.
 
 
 ## *Redesign the cell phone stand*
@@ -18,7 +18,7 @@ As I reflected on my daily life, I noticed two common scenarios where I use a ce
 Please find my progress video via this link. https://youtu.be/6hY8ILsYISs
 
 
-## *Reflections*
+## *Reflections and speculations*
 
 - This project allowed me to gain a deeper understanding of various **software tools** such as Grasshopper, and Rhino, as well as honing my **fabrication skills**. The newly designed phone stand offers enhanced stability and versatility, featuring more personalized functions, and its angle is perfectly tailored to match both my height and the table's height, facilitating the filming of myself while engaged in various activities.
 
