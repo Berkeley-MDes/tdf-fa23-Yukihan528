@@ -1,4 +1,4 @@
-# Hi! This is XUE HAN (Yuki).😄❄️
+# Hi! This is XUE HAN (Yuki).
 Welcome to my Project 1: Computational Design.
 
 
