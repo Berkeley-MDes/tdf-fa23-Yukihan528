@@ -2,7 +2,7 @@
 Welcome to my weekly reports! 
 
 # Report 4 - Week of 09/14 - 09/21
-This week, I gathered feedback from my peers and documented Project 1: Computational Design. Then, we kickstarted Project 2 - The Digital Ecosystem! In the initial stages, I utilized Sudhu's Photon2 tutorial to set up my device.
+This week, I gathered [feedback from my peers and documented Project 1: Computational Design](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%204%20-Week%20of%2009%2014%20-%2009%2021.md#feedback-from-peers-and-documentation). Then, we kickstarted Project 2 - The Digital Ecosystem! In the initial stages, I followed Sudhu's Photon2 tutorial to [set up my device](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%204%20-Week%20of%2009%2014%20-%2009%2021.md#set-up-photon-2).
 
 --- 
 ## Quick Links, compiled here for your convenience: ##
