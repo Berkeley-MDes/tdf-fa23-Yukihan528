@@ -2,7 +2,7 @@
 Welcome to my weekly reports! 
 
 # Report 4 - Week of 09/14 - 09/21
-This week, I gathered feedback from my peers and documented Project 1: Computational Design. Then, we kickstarted Project 2 - The Digital Ecosystem! I followed Sudhu's Photon2 tutorial to set up my device.
+This week, I gathered feedback from my peers and documented Project 1: Computational Design. Then, we kickstarted Project 2 - The Digital Ecosystem! In the initial stages, I utilized Sudhu's Photon2 tutorial to set up my device.
 
 --- 
 ## Quick Links, compiled here for your convenience: ##
