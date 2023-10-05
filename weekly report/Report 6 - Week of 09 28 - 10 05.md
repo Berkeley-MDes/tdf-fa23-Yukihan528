@@ -2,7 +2,7 @@
 
 # Hello! 🌞 Welcome to my weekly report!
 
-This week, my teammates and I engaged in a productive meeting on "Tangible Prototyping for Interactive Programming Education." We conducted a brainstorming session, generating various intriguing directions and ideas for our project. In addition, I spent time exploring Photon 2, seeking to understand how to integrate it into our second project. Further reflections and speculations on these experiences can be found here.
+This week, my teammates and I engaged in a productive meeting on "Tangible Prototyping for Interactive Programming Education." We conducted a [brainstorming session](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#brainstorm-for-project-2), generating various intriguing directions and ideas for our project. In addition, I spent time [exploring Photon 2](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#work-with-photon-2), seeking to understand how to integrate it into our second project. Further [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#reflections-and-speculations) on these experiences can be found here.
 
 ## *Brainstorm for Project 2*
 
@@ -22,7 +22,7 @@ Key features
 
 In our project, we will intergrate hardwares to make the interaction more friendly and enjoyable for visually impaired childeren. 
 
-## Work with Photon 2*
+## *Work with Photon 2*
 
 On Thursday's session, I followed the instrucation to install Particle Workbench and VS Code, but errors occured as the screenshot shows.
 <img width="700" alt="Screenshot 2023-09-28 at 5.59.18 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005/Screenshot%202023-09-28%20at%205.59.18%20PM.png"> 
