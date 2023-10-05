@@ -1,5 +1,16 @@
 # Hi! This is XUE HAN (Yuki).😄❄️
 Welcome to my weekly reports! 
+# Report 6 - Week of 09/28 - 10/05
+
+This week, my teammates and I engaged in a productive meeting on "Tangible Prototyping for Interactive Programming Education." We conducted a [brainstorming session](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#brainstorm-for-project-2), generating various intriguing directions and ideas for our project. In addition, I spent time [exploring Photon 2](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#work-with-photon-2), seeking to understand how to integrate it into our second project. Further [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#reflections-and-speculations) on these experiences can be found here.
+
+
+## Quick Links, compiled here for your convenience: ##
+
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md) - Where you can find my detailed report for week 6
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005.md#reflections-and-speculations) - What I learned during week 6
+- [Images, videos, and model files](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%206%20-%20Week%20of%2009%2028%20-%2010%2005) - Images and video appear in the report for week 6
+
 
 # Report 5 - Week of 09/21 - 09/28
 
