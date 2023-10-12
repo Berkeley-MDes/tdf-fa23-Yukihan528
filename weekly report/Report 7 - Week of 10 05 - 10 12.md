@@ -2,7 +2,7 @@
 
 # Hello! 💻 Welcome to my weekly report!
 
-This week, my teammates and I worked on Project 2: Tangible Prototyping for Interactive Programming Education. We defined our design content and did some practical testing with Photon 2. Please find my reflections and speculations here.
+This week, my teammates and I [worked on Project 2: Tangible Prototyping for Interactive Programming Education](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%207%20-%20Week%20of%2010%2005%20-%2010%2012.md#working-on-project-2). We defined our design content and did some practical testing with Photon 2. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%207%20-%20Week%20of%2010%2005%20-%2010%2012.md#reflections-and-speculations) here.
 
 ## *Working on Project 2*
 
