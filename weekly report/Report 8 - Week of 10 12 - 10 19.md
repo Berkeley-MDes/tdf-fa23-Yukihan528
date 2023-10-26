@@ -1,3 +1,31 @@
-# Report 7 - Week of 10/12 - 10/19
+# Report 8 - Week of 10/12 - 10/19
 
-# Hello! 💻 Welcome to my weekly report!
+# Hello! 😊 Welcome to my weekly report!
+This week, my teammates and I continued to [worked on Project 2: Tangible Prototyping for Interactive Programming Education](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/edit/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#working-on-project-2). We successfully resolved the Photon communication issues and presented a compelling demonstration of our project. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/edit/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+
+## *Working on Project 2*
+
+We discovered that for the two devices to communicate, they must be linked to the same account. With assistance from TJ and ChatGPT, we successfully paired them under a single account, enabling communication. 
+
+<img width="700" alt="Screenshot 2023-10-25 at 4.47.03 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/Screenshot%202023-10-25%20at%204.47.03%20PM.png">
+<img width="700" alt="Screenshot 2023-10-25 at 4.51.12 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/Screenshot%202023-10-25%20at%204.51.12%20PM.png">
+<img width="700" alt="IMG_5900.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/IMG_5900.JPG">
+
+We also shared these code to help other groups with Photon communication.
+<img width="500" alt="Screenshot 2023-10-25 at 4.51.40 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/Screenshot%202023-10-25%20at%204.51.40%20PM.png">
+<img width="500" alt="Screenshot 2023-10-25 at 4.51.50 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/Screenshot%202023-10-25%20at%204.51.50%20PM.png">
+
+To simplify the coding process, I reorganized our prototyping blueprint, which visually represents the stages and actions of an interactive learning experience involving special bricks and pads. The using process is divided into three main stages: Preparation, Learning, Review, and the flowchart introduces Physical Evidence, User Actions, Onstage Contact Actions, and Backstage Contact Actions for each stage. Throughout the learning process, the user is tasked with various challenges like spelling words with the bricks and placing them on the right pads, and they receive immediate feedback based on their actions. In our prototyping, we focused on the learning stage. The primary tasks involve identifying bricking and placing the bricks on designated pads. Various audio instructions guide the user. The system checks the placement of bricks using RFIDs and provides feedback through a speaker. If the user places the bricks correctly, they hear a "Well done!" message; if not, they are prompted to "Please try again".
+<img width="1000" alt="Screenshot 2023-10-14 at 3.14.07 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/Screenshot%202023-10-14%20at%203.14.07%20PM.png">
+
+Regarding our physical prototype, we created modular bricks and pads. Drawing on my expertise as an industrial designer, I determined the optimal product size. This ensured it was both child-friendly and could house our electronic components. During fabrication, Jiayi and I collaborated: I verified the laser cutting documentation and took the lead in assembling the model.
+<img width="900" alt="WechatIMG105.jpeg" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/WechatIMG105.jpeg">
+<img width="450" alt="24371698122852_.pic.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/24371698122852_.pic.jpg">
+<img width="450" alt="24361698122852_.pic.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/24361698122852_.pic.jpg">
+
+To better showcase our project, I drafted the shooting script and contributed my personal camera for the filming. We captured a comprehensive interaction with the product, detailing the entire user flow and experience.
+<img width="900" alt="IMG_2585.PNG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019/IMG_2585.PNG">
+
+## *Reflections and Speculations*
+- On Project | Given the time constraints, we are pleased with the outcome of our project. We successfully established communication with the photon and showcased a prototype module using four RFIDs. However, there's always room for improvement and refinement. Many classmates pointed out in their feedback the need for comprehensive user research. Questions arise: Do blind children truly benefit from this toy? Is the size appropriate for them? What visual elements resonate most with young users? Our project was limited by the time available, which meant we couldn't conduct extensive user testing, leaving a gap in our understanding. Additionally, the structure of our video presentation could be enhanced, integrating more speculative insights to better paint a picture of the project's potential future.
+- On Teamwork | Our team collaboration was exceptional. Even though we were all novices to photon and coding, together we surmounted numerous technical hurdles, from connecting two RFIDs to a photon, facilitating communication between photons, to outputting audio information. A special shoutout to Charon for her dedication. She took the lead in coding and laid the technical groundwork for our endeavor. I must also commend Jiayi, who impressively managed to finalize the video clip while on a plane – no small feat. Throughout this journey, I sought to leverage my strengths, pitching ideas to advance the project, articulating my thoughts, and continually uplifting my teammates. The teamwork was truly enriching, and the experience invaluable.
