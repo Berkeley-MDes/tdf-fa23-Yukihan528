@@ -1,6 +1,17 @@
 # Hi! This is XUE HAN (Yuki).😄❄️
 Welcome to my weekly reports! 
 
+# Report 8 - Week of 10/12 - 10/19
+
+This week, my teammates and I continued to [worked on Project 2: Tangible Prototyping for Interactive Programming Education](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/edit/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#working-on-project-2). We successfully resolved the Photon communication issues and presented a compelling demonstration of our project. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/edit/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+
+## Quick Links, compiled here for your convenience: ##
+
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md) - Where you can find my detailed report for week 8
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/edit/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) - What I learned during week 8
+- [Images, videos, and model files](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019) - Images and video appear in the report for week 8
+
+  
 # Report 7 - Week of 10/05 - 10/12
 
 This week, my teammates and I [worked on Project 2: Tangible Prototyping for Interactive Programming Education](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%207%20-%20Week%20of%2010%2005%20-%2010%2012.md#working-on-project-2). We defined our design content and did some practical testing with Photon 2. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%207%20-%20Week%20of%2010%2005%20-%2010%2012.md#reflections-and-speculations) here.
