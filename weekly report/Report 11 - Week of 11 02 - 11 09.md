@@ -21,7 +21,7 @@ The feedback on my project was largely positive, highlighting the successful asp
 In Project 4: Mix, Master, Extend, and Evolve, my current plan revolves around enhancing Project 2: Build a Digital Ecosystem. This earlier project involved the design of an interactive Braille Study Module for Visually Impaired Children. Building upon the feedback received, my approach will include a reevaluation of product materials and a deeper involvement in user research. I am eager to observe how these adjustments will contribute to the overall improvement of the project.
 
 ## *Guest Lecture from Mohit Bhoite*
-<img width="450" alt="IMG_8030.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8030.JPG">  <img width="450" alt="IMG_8024.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8030.JPG">
+<img width="450" alt="IMG_8030.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8030.JPG">  <img width="450" alt="IMG_8024.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8024.JPG">
 The guest lecture was incredibly interesting, offering enlightening insights into the multitude of objects created using particle devices.
 
 ## *Reflections and Spaculations*
