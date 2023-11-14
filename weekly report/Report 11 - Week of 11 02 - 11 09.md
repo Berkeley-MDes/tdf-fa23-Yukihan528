@@ -1,10 +1,11 @@
 # Report 11 - Week of 11/02 - 11/09
 
 # Hello! 🤔 Welcome to my weekly report!
-This week marked a recovery period. After receiving feedback from my peers on Project 3, I successfully completed its documentation. Also, we kicked off Project 4 and had a cool guest lecture from Mohit Bhoite. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+This week marked a recovery period. After receiving feedback from my peers on [Project 3](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#project-3-final), I successfully completed its documentation. Also, we [kicked off Project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#project-4-kick-off) and had a cool [guest lecture from Mohit Bhoite](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#guest-lecture-from-mohit-bhoite). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
 
 ## *Project 3 final*
 During Thursday's class, we had a critique session, providing a cool and inspirational opportunity to see everyone's mini-me projects.
+
 <img width="800" alt="Screenshot 2023-11-06 at 6.00.54 PM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/Screenshot%202023-11-06%20at%206.00.54%20PM.png">
 
 The feedback on my project was largely positive, highlighting the successful aspects while also pointing out areas for improvement.
