@@ -24,6 +24,6 @@ In Project 4: Mix, Master, Extend, and Evolve, my current plan revolves around e
 <img width="450" alt="IMG_8030.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8030.JPG">  <img width="450" alt="IMG_8024.JPG" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009/IMG_8024.JPG">
 The guest lecture was incredibly interesting, offering enlightening insights into the multitude of objects created using particle devices.
 
-## *Reflections and Spaculations*
+## *Reflections and Speculations*
 - Receiving feedback is consistently beneficial, and it's often surprising to discover areas for improvement from another person's perspective.
 - This week has marked significant advancements in the AI industry, capturing my attention as a product designer deeply interested in UX. Anticipating the GPT-4.0 launch event, I foresee promising opportunities for both fields. The integration of advanced natural language understanding has the potential to enhance the intuitiveness and context-awareness of design tools. Additionally, I envision GPT-4.0 improving prototyping capabilities, potentially streamlining the iterative design process. The combination of these advancements could significantly impact the way product designers approach their work and collaborate in user experience design.
