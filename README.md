@@ -1,5 +1,21 @@
 # Hi! This is XUE HAN (Yuki).😄❄️
 Welcome to my weekly reports! 
+# Report 15 - Week of 11/30 - 12/07
+
+This week, we worked hard on [project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2015%20-%20Week%20of%2011%2030%20-%2012%2007.md#project-4-progress) for the final showcase. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2015%20-%20Week%20of%2011%2030%20-%2012%2007.md#reflections-and-speculations) here.
+
+# Report 14 - Week of 11/23 - 11/30
+
+This week, we have been diligently working on [Project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2014%20-%20Week%20of%2011%2023%20-%2011%2030.md#project-4-progress). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2014%20-%20Week%20of%2011%2023%20-%2011%2030.md#reflections-and-speculations) here.
+
+# Report 13 - Week of 11/16 - 11/23
+
+Happy thanksgiving! And I've been working on [project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2013%20-%20Week%20of%2011%2016%20-%2011%2023.md#project-4-progress) online with my partners. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2013%20-%20Week%20of%2011%2016%20-%2011%2023.md#reflection-and-speculations) here.
+
+# Report 12 - Week of 11/09 - 11/16
+
+This week was particularly engaging, highlighted by a fascinating [guest lecture from John MacCallum](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#guest-lecture-from-john-maccallum) and a [Proposal Pin-Up Gallery](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#project-4-proposal-pin-up-gallery) that proved to be very inspirational. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#reflections-and-speculations) here.
+
 
 # Report 11 - Week of 11/02 - 11/09
 
