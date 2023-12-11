@@ -1,9 +1,9 @@
 # Report 9 - Week of 10/19 - 10/26
 
 # Hello! 😊 Welcome to my weekly report!
-This week, we collected feedback for Project 2 and speculated the future development. Also, we kicked off Project 3. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+This week, we collected [feedback for Project 2](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#feedback-and-reflection-on-project-2) and speculated the future development. Also, we [kicked off Project 3](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#project-3-kick-off). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#reflections-and-speculations) here.
 
-## *Feedback and Reflection on Project 2*
+## *Feedback on Project 2*
 Our team successfully presented our project and received a wealth of inspiring feedback, much of which provided fresh perspectives we hadn't considered previously. This has greatly motivated us to enhance our program moving forward. Here are the pieces of feedback we received.
 
 <img width="900" alt="Screenshot 2023-12-11 at 2.33.15 AM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026/Screenshot%202023-12-11%20at%202.33.15%20AM.png">
