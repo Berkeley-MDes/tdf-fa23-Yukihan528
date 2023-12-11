@@ -1,7 +1,7 @@
 # Report 12 - Week of 11/09 - 11/16
 
 # Hello! 😄Welcome to my weekly report!
-This week was particularly engaging, highlighted by a fascinating guest lecture from John MacCallum and a Proposal Pin-Up Gallery that proved to be very inspirational. Please find my reflections and speculations here.
+This week was particularly engaging, highlighted by a fascinating [guest lecture from John MacCallum](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#guest-lecture-from-john-maccallum) and a [Proposal Pin-Up Gallery](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#project-4-proposal-pin-up-gallery) that proved to be very inspirational. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2012%20-%20Week%20of%2011%2009%20-%2011%2016.md#reflections-and-speculations) here.
 
 ## *Guest lecture from John MacCallum*
 The OSCript demonstration was not only helpful but also showed immense potential, in my opinion.
