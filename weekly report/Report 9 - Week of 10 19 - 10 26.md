@@ -1,10 +1,35 @@
 # Report 9 - Week of 10/19 - 10/26
 
 # Hello! 😊 Welcome to my weekly report!
-This week, we collected feedback for Project 2 and reflected on its outcomes. We also initiated Project 3. Also, we kicked off Project 3. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+This week, we collected feedback for Project 2 and speculated the future development. Also, we kicked off Project 3. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
 
 ## *Feedback and Reflection on Project 2*
+Our team successfully presented our project and received a wealth of inspiring feedback, much of which provided fresh perspectives we hadn't considered previously. This has greatly motivated us to enhance our program moving forward. Here are the pieces of feedback we received.
 
-## *Project 3 Kick off*
+<img width="900" alt="Screenshot 2023-12-11 at 2.33.15 AM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026/Screenshot%202023-12-11%20at%202.33.15%20AM.png">
 
-## *Reflections and Spaculations*
+
+## *Project 3 Kick-off*
+This week marked the beginning of Project 3. Unfortunately, I could not attend Monday's lecture due to physical discomfort. However, I caught up with the session through the video recording and found myself intrigued by the project's topic.
+
+<img width="900" alt="Screenshot 2023-12-11 at 2.40.51 AM.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026/Screenshot%202023-12-11%20at%202.40.51%20AM.png">
+
+## *Reflections and Speculations*
+- How this project might impact human experiences
+This project seeks to create a multi-sensory experience that engages users on multiple fronts.
+The act of engaging with the bricks does more than merely imparting knowledge. It immerses users in a tactile world, where each touch, grip, and placement is an exercise in motor skill refinement. The tactile experience, paired with the cognitive demands of tasks like spelling, creates a rich playground for the brain, stimulating both its logical and creative hemispheres. This convergence of physical activity and mental stimulation ensures a balanced development, often lacking in traditional learning tools.
+The hands-on approach of placing and connecting bricks augments cognitive development and fosters problem-solving prowess. Each interaction becomes an opportunity to challenge and strengthen both mental acumen and physical coordination.
+Furthermore, the project's interactive nature fosters a sense of curiosity and exploration. Users are encouraged to delve deeper, to question, and to seek answers. The dynamic nature of the tool ensures that learning is not a passive reception of knowledge but an active pursuit, making each learning session an adventure in itself.
+Moreover, the emotional ramifications are profound. The satisfaction derived from successfully connecting the bricks, the joy of overcoming a challenge, and the bolstered confidence from each achievement culminate in a heightened sense of self-worth and accomplishment. This emotional resonance ensures that users are not just intellectually engaged but also emotionally invested, making the learning experience deeply personal and memorable.
+- How this project might impact engineering
+From an engineering perspective, the project harnesses the potential of RFID technology, signaling the possibility of a future filled with interactive and responsive educational tools.
+The intentional design choice of having distinct bricks and pads is not merely aesthetic but deeply rooted in the principle of modularity. This design decision underscores the importance of flexibility in modern educational tools.
+This modular approach not only facilitates scalability, but it also offers customizability. Educators or users can tailor the system by adding new modules to introduce fresh content or remove outdated or irrelevant ones. Such flexibility ensures the tool remains relevant, engaging, and aligned with the dynamic nature of education.
+Furthermore, the modularity in design fosters a sustainable approach to educational tools. Instead of replacing an entire system when a component becomes obsolete, one can simply swap out the specific module. This not only conserves resources but also reduces electronic waste, making it an environmentally conscious choice.
+Lastly, the concept of modularity, paired with RFID technology, opens doors for collaborative learning experiences. Multiple users could potentially interlink their modules, promoting teamwork, shared experiences, and peer-to-peer learning. This intertwining of technology and collaboration could revolutionize classroom dynamics, making learning more communal and interactive.
+- What this project’s intersection with AI might be
+The true potential of our project emerges when we consider its synergy with AI. By merging AI capabilities, the system could become indispensable for blind children. As one feedback we received, "It would be interesting to consider what other pieces of feedback you could provide to the user if they are messing up or hitting a roadblock in trying to fit the pieces together." By leveraging sensors and AI algorithms, the tool could create a responsive tactile experience, dynamically adjusting challenges to match user proficiency. This ensures an optimal learning curve, where the user is neither overwhelmed nor under-challenged.
+Several intriguing suggestions were put forth, like enabling users to craft sentences using the device or understanding the rationale behind the texture variations of syllables and the choice of words. Additionally, the intricate differences in pronunciations, such as the "o" in "redo" versus "door," was highlighted.
+Harnessing the power of Natural Language Processing (NLP) models, users can construct sentences with the bricks. Should any grammatical errors arise, the AI swiftly intervenes with real-time feedback, suggesting rectifications. Similar to modern predictive text systems, the AI can also suggest subsequent words, enriching the sentence formation process.
+Although the initial design choices stem from the creators' vision, AI's analytical prowess can fine-tune these decisions. By discerning which textures resonate more with users or identifying frequently used words, we can adopt a data-centric approach in subsequent design iterations, aligning them closely with user preferences.
+Beyond mere feedback, envision a system with emotional intelligence. Imagine voice feedback that's attuned to a user's emotional state, striking the right balance between motivation and instruction. Think beyond mere alphabets; imagine bricks symbolizing complex concepts. AI's NLP capabilities could offer instantaneous feedback on grammar, synonyms, or even elaborate explanations. While the existing system is underpinned by RFID technology, integrating AI could transform it from a reactive tool to one that offers profound insights, meticulously analyzing user behavior to optimize guidance. The horizon for our project, augmented by AI, is truly boundless.
