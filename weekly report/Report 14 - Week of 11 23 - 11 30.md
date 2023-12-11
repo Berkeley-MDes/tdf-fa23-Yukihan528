@@ -1,7 +1,7 @@
 # Report 14 - Week of 11/23 - 11/30
 
 # Hello! 😄Welcome to my weekly report!
-This week, we have been diligently working on Project 4. Please find my reflections and speculations here.
+This week, we have been diligently working on [Project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2014%20-%20Week%20of%2011%2023%20-%2011%2030.md#project-4-progress). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2014%20-%20Week%20of%2011%2023%20-%2011%2030.md#reflections-and-speculations) here.
 
 ## *Project 4 progress*
 We revised the user flow based on user and peer feedback.
