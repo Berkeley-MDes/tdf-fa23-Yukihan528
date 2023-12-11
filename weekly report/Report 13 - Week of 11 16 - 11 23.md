@@ -1,7 +1,7 @@
 # Report 13 - Week of 11/16 - 11/23
 
 # Hello! 😄Welcome to my weekly report!
-Happy thanksgiving! And I've been working on project 4 online with my partners. Please find my reflections and speculations here.
+Happy thanksgiving! And I've been working on [project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2013%20-%20Week%20of%2011%2016%20-%2011%2023.md#project-4-progress) online with my partners. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2013%20-%20Week%20of%2011%2016%20-%2011%2023.md#reflection-and-speculations) here.
 
 ## *Happy Thanksgiving!!!*
 <img width="900" alt="Thanksgiving-2020-01.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2013%20-%20Week%20of%2011%2016%20-%2011%2023/Thanksgiving-2020-01.png">
