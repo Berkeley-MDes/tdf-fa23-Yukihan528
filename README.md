@@ -1,6 +1,40 @@
 # Hi! This is XUE HAN (Yuki).😄❄️
 Welcome to my weekly reports! 
 
+# Report 11 - Week of 11/02 - 11/09
+
+This week marked a recovery period. After receiving feedback from my peers on [Project 3](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#project-3-final), I successfully completed its documentation. Also, we [kicked off Project 4](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#project-4-kick-off) and had a cool [guest lecture from Mohit Bhoite](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md#guest-lecture-from-mohit-bhoite). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
+
+## Quick Links, compiled here for your convenience: ##
+
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009.md) - Where you can find my detailed report for week 11
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) - What I learned during week 11
+- [Images, videos, and model files](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%2011%20-%20Week%20of%2011%2002%20-%2011%2009) - Images and video appear in the report for week 11
+
+
+# Report 10 - Week of 10/26 - 11/02
+
+This week, I've been working on [Project 3](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2010%20-%20Week%20of%2010%2026%20-%2011%2002.md#project-3). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2010%20-%20Week%20of%2010%2026%20-%2011%2002.md#reflections-and-spaculations) here.
+
+
+## Quick Links, compiled here for your convenience: ##
+
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2010%20-%20Week%20of%2010%2026%20-%2011%2002.md) - Where you can find my detailed report for week 10
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%2010%20-%20Week%20of%2010%2026%20-%2011%2002.md#reflections-and-spaculations) - What I learned during week 10
+- [Images, videos, and model files](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%2010%20-%20Week%20of%2010%2026%20-%2011%2002) - Images and video appear in the report for week 10
+
+# Report 9 - Week of 10/19 - 10/26
+
+This week, we collected [feedback for Project 2](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#feedback-and-reflection-on-project-2) and speculated the future development. Also, we [kicked off Project 3](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#project-3-kick-off). Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#reflections-and-speculations) here.
+
+
+## Quick Links, compiled here for your convenience: ##
+
+- [Detailed Report](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md) - Where you can find my detailed report for week 9
+- [Reflections](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026.md#reflections-and-speculations) - What I learned during week 9
+- [Images, videos, and model files](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/tree/main/weekly%20report/Report%209%20-%20Week%20of%2010%2019%20-%2010%2026) - Images and video appear in the report for week 9
+
+
 # Report 8 - Week of 10/12 - 10/19
 
 This week, my teammates and I continued to [worked on Project 2: Tangible Prototyping for Interactive Programming Education](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#working-on-project-2). We successfully resolved the Photon communication issues and presented a compelling demonstration of our project. Please find my [reflections and speculations](https://github.com/Berkeley-MDes/tdf-fa23-Yukihan528/blob/main/weekly%20report/Report%208%20-%20Week%20of%2010%2012%20-%2010%2019.md#reflections-and-speculations) here.
